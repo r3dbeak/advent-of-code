@@ -9,7 +9,7 @@ set(CMAKE_CXX_EXTENSIONS OFF)
 # Set the output directory
 set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_SOURCE_DIR}/bin)
 
-file(GLOB_RECURSE ALL_CXX_FILES "${CMAKE_SOURCE_DIR}/src/*.cxx")
+file(GLOB_RECURSE ALL_CXX_FILES "${CMAKE_SOURCE_DIR}/src/*.cc")
 
 # Add an executable for each .cxx file
 foreach(CXX_FILE ${ALL_CXX_FILES})
