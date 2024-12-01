@@ -7,7 +7,7 @@ int main()
     vector<int> righties;
 
     // Read input
-    ifstream file{"../input/day01.txt"};
+    ifstream file{"../input/day01.in"};
     string line;
     while (getline(file, line))
     {

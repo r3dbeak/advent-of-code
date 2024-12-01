@@ -2,7 +2,7 @@ lefties = []
 righties = []
 
 # Read input
-with open("input/day01.txt", "r") as file:
+with open("input/day01.in", "r") as file:
     for line in file:
         parts = line.strip().split()
         l, r = map(int, parts)

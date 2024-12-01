@@ -3,7 +3,7 @@ const fs = require("fs");
 lefties = [];
 righties = [];
 // Open the file and read it line by line
-fs.readFile("input/day01.txt", "utf8", (err, data) => {
+fs.readFile("input/day01.in", "utf8", (err, data) => {
   if (err) throw err;
   const lines = data.split("\n");
   lines.forEach((line) => {

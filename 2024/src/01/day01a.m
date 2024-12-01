@@ -1,5 +1,5 @@
 % Open the file and read it line by line
-fileID = fopen('input/day01.txt', 'r');
+fileID = fopen('input/day01.in', 'r');
 
 lefties = [];
 righties = [];
