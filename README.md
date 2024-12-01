@@ -2,9 +2,9 @@
 
 ## Overall summary
 
-| Year | Progress | Languages Used |
-| ---- | -------- | -------------- |
-| 2024 | 1/24     | C++            |
+| Year | Progress | Languages Used                   |
+| ---- | -------- | -------------------------------- |
+| 2024 | 1/24     | C++, Javascript, Python, MATLAB, |
 
 ## Summary by Year
 
@@ -20,9 +20,9 @@
 
 ### Progress
 
-| Day | C++   |
-| --- | ----- |
-| 01  | ✨ ⭐ |
+| Day | C++   | Javascript | Python | MATLAB |
+| --- | ----- | ---------- | ------ | ------ |
+| 01  | ✨ ⭐ | ✨ ⭐      | ✨ ⭐  | ✨ ⭐  |
 | 02  |       |
 | 03  |       |
 | 04  |       |
