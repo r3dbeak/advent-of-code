@@ -4,7 +4,7 @@
 
 | Year | Progress | Languages Used                   |
 | ---- | -------- | -------------------------------- |
-| 2024 | 3/24     | C++, Javascript, Python, MATLAB, |
+| 2024 | 4/24     | C++, Javascript, Python, MATLAB, |
 
 ## Summary by Year
 
@@ -25,7 +25,7 @@
 | 01  | ✨ ⭐ | ✨ ⭐      | ✨ ⭐  | ✨ ⭐  |
 | 02  | ✨ ⭐ | ✨ ⭐      |        | ✨ ⭐  |
 | 03  | ✨ ⭐ | ✨ ⭐      | ✨ ⭐  | ✨ ⭐  |
-| 04  |       |
+| 04  | ✨ ⭐ |
 | 05  |       |
 | 06  |       |
 | 07  |       |
