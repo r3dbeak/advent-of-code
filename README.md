@@ -2,9 +2,9 @@
 
 ## Overall summary
 
-| Year | Progress | Languages Used                   |
-| ---- | -------- | -------------------------------- |
-| 2024 | 7/24     | C++, Javascript, Python, MATLAB, |
+| Year | Stars | Languages Used                   |
+| ---- | ----- | -------------------------------- |
+| 2024 | 16/50 | C++, Javascript, Python, MATLAB, |
 
 ## Summary by Year
 
@@ -15,8 +15,8 @@
 
 | Symbol | Meaning     |
 | ------ | ----------- |
-| ✨     | Task 1 done |
-| ⭐     | Task 2 done |
+| ✨     | Part 1 done |
+| ⭐     | Part 2 done |
 
 ### Progress
 
@@ -25,11 +25,11 @@
 | 01  | ✨ ⭐ | ✨ ⭐      | ✨ ⭐  | ✨ ⭐  |
 | 02  | ✨ ⭐ | ✨ ⭐      |        | ✨ ⭐  |
 | 03  | ✨ ⭐ | ✨ ⭐      | ✨ ⭐  | ✨ ⭐  |
-| 04  | ✨ ⭐ |
-| 05  | ✨ ⭐ |
-| 06  | ✨ ⭐ |
-| 07  | ✨ ⭐ |
-| 08  |       |
+| 04  | ✨ ⭐ |            |        |        |
+| 05  | ✨ ⭐ |            |        |        |
+| 06  | ✨ ⭐ |            |        |        |
+| 07  | ✨ ⭐ |            |        |        |
+| 08  |       |            | ✨ ⭐  |        |
 | 09  |       |
 | 10  |       |
 | 11  |       |
