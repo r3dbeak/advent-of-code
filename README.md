@@ -4,7 +4,7 @@
 
 | Year | Stars | Languages Used                   |
 | ---- | ----- | -------------------------------- |
-| 2024 | 16/50 | C++, Javascript, Python, MATLAB, |
+| 2024 | 18/50 | C++, Javascript, Python, MATLAB, |
 
 ## Summary by Year
 
@@ -30,7 +30,7 @@
 | 06  | ✨ ⭐ |            |        |        |
 | 07  | ✨ ⭐ |            |        |        |
 | 08  |       |            | ✨ ⭐  |        |
-| 09  |       |
+| 09  |       |            | ✨ ⭐  |        |
 | 10  |       |
 | 11  |       |
 | 12  |       |
